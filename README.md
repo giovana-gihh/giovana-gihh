@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giovana-gihh
 - 👀 I’m interested in software development
-- 🌱 I’m currently enrolled in a I.T major for sofwtare and database development
+- 🌱 I’m currently enrolled in a I.T major for software and database development
 - 💞️ I’m looking to collaborate on begginer level projects
 - 📫 How to reach me giovana.logme@gmail.com
 
